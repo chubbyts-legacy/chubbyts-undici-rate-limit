@@ -17,6 +17,8 @@
 [![sqale_index](https://sonarcloud.io/api/project_badges/measure?project=chubbyts_chubbyts-undici-rate-limit&metric=sqale_index)](https://sonarcloud.io/dashboard?id=chubbyts_chubbyts-undici-rate-limit)
 [![vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=chubbyts_chubbyts-undici-rate-limit&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=chubbyts_chubbyts-undici-rate-limit)
 
+**Deprecated: @chubbyts/chubbyts-undici-rate-limit is no longer maintained, use [@chubbyts/chubbyts-http-rate-limit](https://github.com/chubbyts/chubbyts-http-rate-limit) instead.**
+
 ## Description
 
 A minimal rate limiting middleware for chubbyts-undici-server.
